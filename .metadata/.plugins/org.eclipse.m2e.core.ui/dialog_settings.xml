@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/sjyj98/Desktop/SpringProject/myfirstwebapp"/>
+			<item value="/Users/sjyj98/Desktop/SpringProject/learn-jpa-and-hibernate"/>
 			<item value="/Users/sjyj98/Desktop/SpringProject/learn-spring-boot"/>
 			<item value="/Users/sjyj98/Desktop/SpringProject"/>
 			<item value="/Users/sjyj98/Desktop/SpringProject/learn-spring-framework"/>

@@ -47,6 +47,7 @@
 		<item key="LimitValue" value="10"/>
 		<item key="SkipNull" value="false"/>
 		<item key="ToStringTemplateSelected" value="0"/>
+		<item key="InsertPosition.v2" value="1"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item key="SortOrdering" value="false"/>
@@ -89,5 +90,10 @@
 		<item key="DIALOG_WIDTH" value="549"/>
 		<item key="DIALOG_HEIGHT" value="641"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="ExtractMethodWizard">
+		<item key="ThrowRuntimeExceptions" value="false"/>
+		<item key="GenerateJavadoc" value="false"/>
+		<item key="AccessModifier" value="2"/>
 	</section>
 </section>
